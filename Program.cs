@@ -17,6 +17,7 @@ namespace words
             Console.WriteLine("Write text:");
             string text = Console.ReadLine();
             stopwatch.Start();
+            Console.WriteLine("testim");
             Console.WriteLine($"number of words: { text.Split(' ', '\t', ';', '\n').Length}\t");
             for (int i = 0; i < text.Length; i++)
             {
@@ -24,7 +25,7 @@ namespace words
                    $"The pased time is: { stopwatch.Elapsed.TotalMilliseconds}");
                 break;
             }
-
+            
             
             Console.ReadLine();
         }
