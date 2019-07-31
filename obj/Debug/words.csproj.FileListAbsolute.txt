@@ -1,0 +1,7 @@
+C:\Users\NAZ\source\repos\words\words\bin\Debug\words.exe.config
+C:\Users\NAZ\source\repos\words\words\bin\Debug\words.exe
+C:\Users\NAZ\source\repos\words\words\bin\Debug\words.pdb
+C:\Users\NAZ\source\repos\words\words\obj\Debug\words.csproj.CoreCompileInputs.cache
+C:\Users\NAZ\source\repos\words\words\obj\Debug\words.exe
+C:\Users\NAZ\source\repos\words\words\obj\Debug\words.pdb
+C:\Users\NAZ\source\repos\words\words\obj\Debug\words.csprojAssemblyReference.cache
